@@ -64,3 +64,4 @@ pnpm-lock.yaml
 
 # Ignore miscellaneous system files
 Thumbs.db
+wp-config-sample.php
